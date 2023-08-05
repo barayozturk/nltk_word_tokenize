@@ -30,7 +30,7 @@ Bu proje, aşağıdaki Python kütüphanelerine dayanmaktadır:
 - scipy
 
 ## 📄 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE[LICENSE.md] dosyasına bakabilirsiniz.
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
 # EN
 
@@ -66,4 +66,4 @@ This project is based on the following Python libraries:
 - scipy
 
 ## 📄 License
-This project is licensed under the MIT License. For more information, see the LICENSE[LICENSE.md] file.
+This project is licensed under the MIT License. For more information, see the LICENSE file.
